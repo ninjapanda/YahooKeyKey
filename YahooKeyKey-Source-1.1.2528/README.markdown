@@ -1,1 +1,0 @@
-Takao (Yahoo! KeyKey)
