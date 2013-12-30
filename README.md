@@ -8,11 +8,11 @@ The installer disk image cannot be directly opened or downloaded. However, toget
 
 1. In Terminal, run the following command to make a copy of the repository. If you don't know where terminal is, simply type 'Terminal' on Spotlight (Ctrl + Space).
    
-      $ git clone https://github.com/kctong529/YahooKeyKey.git
+   '''$ git clone https://github.com/kctong529/YahooKeyKey.git'''
 
 2. The location of the repository copy depends on your previous step. If you have no idea about it, run this command and you'll be fine with it.
 
-      $ open ./
+   '''$ open ./'''
 
 3. Open `YahooKeyKey-OSX-Leopard-1.1.2535.dmg` in the repository root directory.
 4. Open `Install Yahoo! KeyKey.app` and run through the installer.
