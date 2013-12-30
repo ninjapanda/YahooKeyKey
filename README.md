@@ -6,7 +6,7 @@ Yahoo! KeyKey
 
 The installer disk image cannot be directly opened or downloaded. However, together with the whole repository, it can be done in no time.
 
-1. In Terminal, run the following command to make a copy of the repository. If you don't know where terminal is, simply type 'Terminal' on Spotlight (Ctrl + Space).
+1. In Terminal, run the following command to make a copy of the repository. If you don't know where terminal is, simply type 'Terminal' on Spotlight (^ + Space).
    
    ```
    $ git clone https://github.com/kctong529/YahooKeyKey.git
