@@ -1,6 +1,6 @@
 Yahoo! KeyKey
 ===
-[Yahoo! Keykey](http://tw.media.yahoo.com/keykey/) is a customized Chinese input methods tool based on an open source project [Openvanilla](http://openvanilla.org/). The project had been officially aborted since 15th January, 2013. However, Yahoo! had decided to make Yahoo! KeyKey a open source projecet under new BSD Licene. Although it was originally hosted as [KeyKey](https://github.com/Yi-Kai/KeyKey), it is no longer maintained. This repo aims to update towards latest operating systems and provide a comprehensive overview to build the installer.
+[Yahoo! Keykey](http://tw.media.yahoo.com/keykey/) is a Traditional Chinese input tool customised for use in Taiwan. The project had been officially aborted since 15th January, 2013. However, Yahoo! had decided to make Yahoo! KeyKey a open source projecet under new BSD Licene. Although it was originally hosted as [KeyKey](https://github.com/Yi-Kai/KeyKey), it is no longer maintained. This repo aims to update towards latest operating systems and provide a comprehensive overview to build the installer.
 
 ##Installation on Mac OSX
 
