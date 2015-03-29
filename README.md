@@ -63,8 +63,8 @@ _m sik gwok yue m sik chong kit m sik but wak dan hai yiu da jung mun_? I know t
 
 1. You can turn off all the other input methods by going to Yahoo! KeyKey’s preferences under the General tab.
 2. In preferences, under the Generic tab, check “Put recently chosen candidates in front” to make frequently typed characters appear further in the front of the character selection pages.
-3. If you want to add new characters, modify pinyins, or adjust the character position in the selection bar, you can just open up canton.cin in a Unicode text editor like TextWrangler(my favorite!) and edit it yourself. It should be pretty self explanatory, but do it at your own risk! If you want the data file’s formatting documentation, read this.
+3. If you want to add new characters, modify pinyin (pingyum), or adjust the character position in the selection bar, you can just open up `canton.cin` in a Unicode text editor like _**TextWrangler**_ (or _**Sublime**_) and edit it yourself. It should be pretty self explanatory, but do it at your own risk! If you want the data file’s formatting documentation, [read this](https://docs.google.com/document/d/1ew408138FCRivleknnw5IRnFqSFH3bHnDyammmiasDo/preview).
 
-Thanks to [Theoryspace](http://blog.theoryspace.com/2009/01/05/how-to-type-chinese-on-a-mac-with-cantonese-pinyin/) for the original article
+Thanks to [Theoryspace](http://blog.theoryspace.com/2009/01/05/how-to-type-chinese-on-a-mac-with-cantonese-pinyin/) for the original article!
 
 
